@@ -1,0 +1,36 @@
+export const StoreData = [{
+    title: 'Connor McDavid',
+    club: 'Edmonton Oilers',
+    description: 'Edmonton Oilers, Connor McDavid',
+    price: '49.99',
+    quantity: '100',
+    image: '',
+}, {
+    title: 'Nathan MacKinnon',
+    club: 'Colorado Avalanche',
+    description: 'Colorado Avalanche, Nathan MacKinnon',
+    price: '49.99',
+    quantity: '100',
+    image: '',
+}, {
+    title: 'Kale Makar',
+    club: 'Colorado Avalanche',
+    description: 'Colorado Avalanche, Kale Makar',
+    price: '49.99',
+    quantity: '100',
+    image: '',
+}, {
+    title: 'Patrick Kane',
+    club: 'Chicago Blackhawks',
+    description: 'Chicago Blackhawks, Patrick Kane',
+    price: '49.99',
+    quantity: '100',
+    image: '',
+}, {
+    title: 'Patrice Bergeron',
+    club: 'Boston Bruins',
+    description: 'Boston Bruins, Patrice Bergeron',
+    price: '49.99',
+    quantity: '100',
+    image: '',
+},]

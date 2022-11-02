@@ -1,0 +1,62 @@
+/* .App {
+  text-align: center;
+} */
+h1, h2, h3, h4, h5, h6 {
+margin: 0;
+}
+.header {
+background-color: #858591;
+box-sizing: border-box;
+padding: 10px 40px;
+color:#eeeef0;
+display: flex;
+justify-content: space-between;
+}
+.list {
+  background-color: #dfdfe2;
+  box-sizing: border-box;
+  padding: 10px 40px;
+  color:#2a2a40 ;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footer {
+background-color: #858591;
+box-sizing: border-box;
+padding: 10px 40px;
+color:#eeeef0;
+display: flex;
+justify-content: center;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --dark-blue: #002ead;
+--theme-color: #0a0a23;
+--gray90: #0a0a23;
+--gray85: #1b1b32;
+--gray80: #2a2a40;
+--gray75: #3b3b4f;
+--gray45: #858591;
+--gray15: #d0d0d5;
+--gray10: #dfdfe2;
+--gray05: #eeeef0;
+--gray00: #fff;
+--header-height: 38px;
+--blue-dark: #002ead;
+background-color: #282c34; */
